@@ -1,0 +1,54 @@
+[
+  {
+    "id": "kb_001",
+    "title": "Common Login Issues",
+    "category": "technical",
+    "content": "Common login issues include incorrect password, account lockout, browser cache problems, and network connectivity issues. Solutions include password reset, clearing cache, trying different browser, and checking network connection.",
+    "keywords": [
+      "login",
+      "password",
+      "account",
+      "authentication"
+    ],
+    "created_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kb_002",
+    "title": "Billing Dispute Resolution",
+    "category": "billing",
+    "content": "Billing disputes can be resolved by reviewing transaction history, checking subscription details, contacting billing department, and providing proof of payment if needed.",
+    "keywords": [
+      "billing",
+      "charge",
+      "payment",
+      "dispute"
+    ],
+    "created_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kb_003",
+    "title": "API Integration Guide",
+    "category": "technical",
+    "content": "API integration requires authentication setup, endpoint understanding, request/response format knowledge, error handling, and testing in sandbox environment before production.",
+    "keywords": [
+      "api",
+      "integration",
+      "development",
+      "technical"
+    ],
+    "created_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kb_004",
+    "title": "Account Security Best Practices",
+    "category": "account",
+    "content": "Account security best practices include using strong passwords, enabling two-factor authentication, regularly updating security settings, and monitoring account activity.",
+    "keywords": [
+      "security",
+      "account",
+      "password",
+      "2fa"
+    ],
+    "created_at": "2024-01-01T00:00:00Z"
+  }
+]
